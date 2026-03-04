@@ -1,4 +1,6 @@
-📍 Vector Data Analysis with GeoPandas
+**📍 Vector Data Analysis with GeoPandas**
+
+
 📌 Project Overview
 
 This project demonstrates vector data analysis using GeoPandas on Pennsylvania municipality boundary data.
@@ -14,6 +16,8 @@ Visualize spatial distribution using choropleth mapping
 Practice geospatial data workflows using Python
 
 This project is built as part of my learning path toward Geospatial Data Engineering / GeoML.
+
+
 
 🗂 Dataset
 
@@ -35,6 +39,8 @@ Matplotlib
 
 Folium
 
+
+
 📈 Key Learnings
 
 Importance of correct CRS before calculating area
@@ -45,6 +51,8 @@ How GeoPandas integrates with Folium for interactive visualization
 
 Basic spatial data processing workflow
 
+
+
 🚀 Future Improvements
 
 Add population data and compute population density
@@ -54,4 +62,6 @@ Perform spatial join with county-level data
 Optimize geometry with simplification
 
 Deploy as interactive web map
+
+
 <img width="1909" height="935" alt="PA_Municipality" src="https://github.com/user-attachments/assets/fbcd7cc0-5bea-4d42-8285-f07b119a0e27" />
